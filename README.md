@@ -8,3 +8,6 @@ From GitHub
 
 From Command Line
 コマンドラインでのプッシュのテスト
+
+From Command Line Pull
+コマンドラインでのプルテスト
