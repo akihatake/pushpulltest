@@ -11,3 +11,7 @@ From Command Line
 
 From Command Line Pull
 コマンドラインでのプルテスト
+
+# 競合テスト
+オリジナルの更新です。
+
