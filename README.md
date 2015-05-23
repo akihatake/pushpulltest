@@ -5,3 +5,6 @@
 From GitHub
 
 プルテストです。
+
+From Command Line
+コマンドラインでのプッシュのテスト
